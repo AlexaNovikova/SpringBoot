@@ -1,4 +1,4 @@
-package ru.geekbrains.spring_firstpart;
+package ru.geekbrains.spring.one;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
