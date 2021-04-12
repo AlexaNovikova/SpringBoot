@@ -1,4 +1,4 @@
-package ru.geekbrains.spring_firstpart;
+package ru.geekbrains.spring.one;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
